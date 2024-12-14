@@ -28,7 +28,7 @@ C Maps/
 
 ---
 
-## How to Customize 🔧  
+## Help me Customize 🔧  
 - **Location Settings**:  
   Change the default view by updating the coordinates in `script.js`.  
   ```javascript  
