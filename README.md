@@ -47,7 +47,7 @@ C Maps/
 
 ## Why Choose C Maps? 🤔  
 - It's simple, clean, and responsive.  
-- It’s a great way to learn how to use Leaflet.js.  
+- Learn to use Leaflet.js.  
 - Perfect for exploring or creating personalized maps.  
 
 ---
