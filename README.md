@@ -11,7 +11,8 @@
 - 📱 **Mobile-friendly**: Works on both desktop and mobile devices.
 
 ---
- **Play Around**:  
+ **Play Around**: 
+ 
    - The map will start with your current location.  
    - Click on the map to drop markers.  
    - Tap the **Switch to Dark Mode** or **Switch to Light Mode** button to change themes.  
